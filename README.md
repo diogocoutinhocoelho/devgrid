@@ -22,7 +22,7 @@ These instructions will help you set up and run the project on your local machin
 
     ```bash
     git clone <https://github.com/diogocoutinhocoelho/devgrid.git>
-    cd weather_api
+    cd devgrid
     ```
 
 2. **Set up a virtual environment and activate it:**
