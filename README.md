@@ -21,7 +21,7 @@ These instructions will help you set up and run the project on your local machin
 1. **Clone the repository:**
 
     ```bash
-    git clone <repo_url>
+    git clone <https://github.com/diogocoutinhocoelho/devgrid.git>
     cd weather_api
     ```
 
@@ -109,7 +109,7 @@ pytest --cov=app tests/
 ### Project Structure
 
 ```
-weather_api/
+devgrid/
 │
 ├── app/
 │   ├── __init__.py
@@ -135,11 +135,3 @@ weather_api/
 - **SQLite**: Used for simplicity in this example; it's lightweight and easy to set up.
 - **aiohttp and asyncio**: Used for handling asynchronous HTTP requests to the Open Weather API.
 - **Docker**: To containerize the application for easy deployment.
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides comprehensive information about setting up, running, and testing your weather data collection service. Feel free to update it as necessary to match any changes in your project.
