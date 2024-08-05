@@ -1,0 +1,8 @@
+Flask
+requests
+aiohttp
+asyncio
+pytest
+pytest-cov
+python-dotenv
+Flask-SQLAlchemy
